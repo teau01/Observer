@@ -23,3 +23,8 @@ D:\Work\Amdaris\ObserverClient\ObserverClient\obj\Debug\ObserverClient.dll
 D:\Work\Amdaris\ObserverClient\ObserverClient\obj\Debug\ObserverClient.pdb
 D:\Work\Amdaris\ObserverClient\ObserverClient\bin\Content\datepicker.css
 D:\Work\Amdaris\ObserverClient\ObserverClient\bin\Content\jumbotron-narrow.css
+D:\Work\Amdaris\ObserverClient\ObserverClient\bin\System.Web.Razor.dll
+D:\Work\Amdaris\ObserverClient\ObserverClient\bin\System.Web.Razor.xml
+D:\Work\Amdaris\ObserverClient\ObserverClient\bin\Antlr3.Runtime.dll
+D:\Work\Amdaris\ObserverClient\ObserverClient\bin\WebGrease.dll
+D:\Work\Amdaris\ObserverClient\ObserverClient\bin\Antlr3.Runtime.pdb
